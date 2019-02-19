@@ -3,6 +3,8 @@ title: "Code Example"
 date: 2019-02-19T11:07:33-05:00
 ---
 
+![codedna](/images/dna.jpg)
+
 # Rendering Code  
 
 Let's see how Hugo and Markdown do with displaying some code text...  

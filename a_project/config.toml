@@ -15,8 +15,8 @@ theme = "hugo-minimalist-theme"
     site_description = "A Hugo Project by Joe"
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "images/github-icon.png"
+    header_background = "images/network.jpg"
     header_title = "A Hugo Project by Joe"
     copyright = "Powered by [Hugo](http://gohugo.io) and Joe."
     custom_css = []
